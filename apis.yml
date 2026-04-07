@@ -1,7 +1,12 @@
 aid: coupang
-url: https://raw.githubusercontent.com/api-evangelist/coupang/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/coupang/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.coupang.com
+description: >-
+  Coupang is a South Korean e-commerce company offering rapid delivery of a wide range
+  of products including groceries, electronics, fashion, and household goods through
+  its mobile app and website.
