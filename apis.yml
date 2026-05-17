@@ -1,6 +1,6 @@
 aid: coupang
 name: Coupang
-x-type: company
+kind: company
 description: >-
   Coupang is a South Korean e-commerce company offering rapid delivery of a wide
   range of products including groceries, electronics, fashion, and household
