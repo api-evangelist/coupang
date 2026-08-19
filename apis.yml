@@ -7,6 +7,7 @@ description: >-
   goods through its mobile app and website. Coupang exposes an Open API platform
   for marketplace sellers (vendors) to integrate product catalog, order, return,
   cancellation, settlement, and inquiry workflows.
+specificationVersion: '0.23'
 accessModel:
   pricing: freemium
   onboarding: unknown
