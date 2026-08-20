@@ -29,6 +29,18 @@ created: '2024-01-01'
 modified: '2026-04-28'
 tags:
   - Cancellations
+  - E-Commerce
+  - Korea
+  - Marketplace
+  - OpenAPI
+  - Order
+  - Product
+  - Returns
+  - Sellers
+  - Settlement
+  - Vendors
+tags_raw:
+  - Cancellations
   - E-commerce
   - Korea
   - Marketplace
@@ -51,6 +63,15 @@ apis:
     humanURL: https://developers.coupangcorp.com/
     baseURL: https://api-gateway.coupang.com
     tags:
+      - HMAC
+      - Marketplace
+      - OpenAPI
+      - Order
+      - Product
+      - REST
+      - Sellers
+      - Vendors
+    tags_raw:
       - HMAC
       - Marketplace
       - Open API
