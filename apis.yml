@@ -126,6 +126,12 @@ apis:
       - type: Support
         url: https://developers.coupangcorp.com/hc/en-us
 common:
+  - type: Plans
+    url: plans/coupang-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/coupang-rate-limits.yml
+  - type: FinOps
+    url: finops/coupang-finops.yml
   - type: VulnerabilityDisclosure
     url: security/coupang-vulnerability-disclosure.yml
   - type: DomainSecurity
