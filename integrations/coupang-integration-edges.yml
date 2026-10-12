@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: searched
+source:
+- https://monid.ai/tools/coupang
+checked:
+- https://composio.dev/toolkits/coupang
+- https://monid.ai/tools/coupang
+- https://n8n.io/integrations/coupang/
+- https://zapier.com/apps/coupang/integrations
+summary: null
+marketplace_apps:
+- marketplace: monid
+  channel: agent-gateway
+  app: coupang
+  url: https://monid.ai/tools/coupang
+  identity: slug
+edges: []
+templates: []
