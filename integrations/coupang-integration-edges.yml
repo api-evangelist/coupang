@@ -6,6 +6,7 @@ checked:
 - https://composio.dev/toolkits/coupang
 - https://monid.ai/tools/coupang
 - https://n8n.io/integrations/coupang/
+- https://storage.googleapis.com/tcfac/additional-consent-providers.csv
 - https://zapier.com/apps/coupang/integrations
 summary: null
 marketplace_apps:
@@ -14,5 +15,28 @@ marketplace_apps:
   app: coupang
   url: https://monid.ai/tools/coupang
   identity: slug
-edges: []
+edges:
+- partner_name: Google Ad Tech Providers
+  partner: null
+  partner_match: domain
+  type: contract
+  channel: standard-directory
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://storage.googleapis.com/tcfac/additional-consent-providers.csv
+  contract_reference:
+    register: Google Ad Tech Providers (Additional Consent)
+    spec_file: null
+    role: google-atp
+    registered_name: Coupang
+    register_id: '3731'
+    products:
+    - Coupang
+    matched_domain: coupang.com
+    api_families: null
+    api_families_basis: null
+    detected_by: sweep-adtech.py
+    detected: '2026-10-14'
+  detected_by: sweep-adtech.py
+  detected: '2026-10-14'
 templates: []
